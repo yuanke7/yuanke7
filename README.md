@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yuanke7
 - 👀 I’m interested in Python, Go, C#, Unity
-- 🌱 I’m currently learning Go
 - 📫 How to reach me: ykq12313@gmail.com
 
 <!---
